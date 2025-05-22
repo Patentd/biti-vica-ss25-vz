@@ -20,7 +20,7 @@ Hyperconverged Infrastructure ist eine Weiterwentwicklung der Converged Infrastr
 
 ### Traditionelle Infrastruktur
 
-Im traditionellen Infrastrukturaufbau, welcher seit Jahrzehnten in Rechenzentren gelebt wird, ist jede Komponente des großen Ganzen voneinander getrennt und läuft auf ihrer eigenen Hardware. Dadurch werden **eigene Server** für die Bereitstellung der Rechenleistung benötigt, sowie ein **dediziertes Speichersystem** in Form von SAN oder NAS.  
+Im traditionellen Infrastrukturaufbau, welcher seit Jahrzehnten in Rechenzentren gelebt wird, ist jede Komponente des großen Ganzen voneinander getrennt und läuft auf ihrer eigenen Hardware. Dadurch werden **eigene Server** für die Bereitstellung der Rechenleistung benötigt, ein **dediziertes Speichersystem** in Form von SAN oder NAS für die Speicherkapazität, sowie **Switches und weitere Netzwerkkomponenten** für den Netzwerkaufbau.  
 Dies führt dazu, dass enorme Kosten für den Erwerb der Hardware auftreten, welche im Betrieb durch Kosten für Strom und Stellplatz weiterlaufen. Außerdem ist die Verwaltung traditioneller Infrastruktur aufwändiger, da die einzelnen Komponenten alle alleine angesteuert und konfiguriert werden müssen.
 
 ### Converged Infrastructure
