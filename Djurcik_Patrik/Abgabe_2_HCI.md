@@ -13,7 +13,7 @@
 
 Als hyperconverged Infrastructure (zu Deutsch: hyperkonvergente Infrastruktur) wird IT-Infrastruktur bezeichnet, in welcher **alle** Komponenten eines klassischen Rechenzentrums (Rechenleistung, Speicher, Netzwerk) **zusammengefasst** und **zentral verwaltet** werden.
 
-Hyperconverged Infrastructure ist eine Weiterwentwicklung der Converged Infrastructure, was wiederum eine Weiterentwicklung der traditionellen IT-Infrastruktur ist.
+Hyperconverged Infrastructure ist eine Weiterwentwicklung der Converged Infrastructure, welche wiederum eine Weiterentwicklung der traditionellen IT-Infrastruktur ist.
 
 ![Convergence_Explanation](assets/Convergence_Explanation.jpg)  
 *Unterschied zwischen den Verschiedenen Konvergenz-Stufen*  
