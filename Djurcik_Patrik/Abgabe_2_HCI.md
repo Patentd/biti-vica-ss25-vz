@@ -26,16 +26,16 @@ Dies führt zu beträchtlichen Kosten bei der Anschaffung der Hardware, welche i
 ### Converged Infrastructure
 
 Um dem Kostenpunkt und der Inflexibilität der traditionellen Infrastruktur entgegenzuwirken wurde die Architektur der converged infrastructure (zu Deutsch: konvergente Infrastruktur) entwickelt.  
-Einzelne Komponenten und Anwendungen der IT-Infrastruktur **teilen** sich nun **Ressourcen**. Die converged Infrastructure besteht zwar weiterhin aus separaten, physischen Bausteinen - diese werden jedoch als **Gesamtsystem** konzipiert, als Paket von einem einzelnen Hersteller gekauft und über eine **Management Software** verwaltet.  
-Als Weiterentwicklung der traditionellen Infrastruktur bietet Converged Infrastructure neben dem Kostenpunkt noch den Vorteil, dass die Verwaltung der ganzen Infrastruktur bedeutend erleichtert wird. Es muss nicht jede Komponente einzeln angesteuert werden, wodurch auch der Zeitaufwand geringer wird.  
-Der Kauf der Infrastruktur als Ganzes von einem einzelnen Hersteller kann sowohl ein Vorteil, als auch ein Nachteil sein - einerseits ist das System in sich bestens abgestimmt, andererseits ist die Flexibilität eingeschränkt, da die Infrastruktur vom Hersteller abhängig ist.
+Einzelne Komponenten und Anwendungen der IT-Infrastruktur **teilen** sich nun **Ressourcen**. Converged Infrastructure besteht zwar weiterhin aus separaten, physischen Bausteinen - diese werden jedoch als **Gesamtsystem** konzipiert, als Paket von einem einzelnen Hersteller gekauft und über eine **Management Software** verwaltet.  
+Als Weiterentwicklung der traditionellen Infrastruktur bietet Converged Infrastructure neben dem Kostenpunkt noch den Vorteil, dass die Verwaltung der ganzen Infrastruktur bedeutend erleichtert wird. Es muss nicht jede Komponente einzeln angesteuert werden, wodurch der administrative Aufwand verringert wird.  
+Der Erwerb der gesamten Infrastruktur von einem einzelnen Hersteller kann jedoch sowohl ein Vorteil, als auch ein Nachteil sein - einerseits ist das System intern bestens aufeinander abgestimmt, andererseits ist die Flexibilität eingeschränkt, da die Infrastruktur im Betrieb abhängig vom selben Lieferanten ist.
 
 ### Hyperconverged Infrastructure
 
-In der Hyperconverged Infrastructure werden die einzelnen Komponenten weiter zusammengefasst, um den Kostenpunkt weiter zu senken und die Flexibilität weiter zu erhöhen.  
-Einzelne Komponenten des Gesamtsystems sind nun nicht mehr physisch getrennt, sondern verschwimmen über Hardwaregrenzen hinweg durch **Virtualisierung** ineinander. Die Kapazitäten der verbauten Server (welche meist reguläre commercial off-the-shelf Server sind) werden gepoolt und über einen Hypervisor je nach Bedarf zugeteilt.  
+In der Hyperconverged Infrastructure werden die einzelnen Komponenten noch weiter zusammengefasst, um die Kosten weiter zu senken und die Flexibilität zu erhöhen.  
+Einzelne Komponenten des Gesamtsystems sind nun nicht mehr physisch getrennt, sondern verschwimmen über Hardwaregrenzen hinweg durch **Virtualisierung** ineinander. Die Kapazitäten der verbauten Server - meist handelsüblicher commercial off-the-shelf (COTS) Server - werden gepoolt und über einen Hypervisor je nach Bedarf dynamisch zugewiesen.  
 
-Der Begriff "Hyperconverged" setzt sich aus zwei Wörtern zusammen: hyper, aus dem Griechischen, was so viel wie "über" bedeutet, und converged, beziehungsweise im Deutschen konvergent, was so viel wie "in einem Punkt zusammenkommend" bedeutet. Da die Converged Infrastructure schon teilweise in einem Punkt zusammenkommt und Hyperconverged Infrastructure dies noch weiter treibt, ist sie also "über konvergent".
+Der Begriff "Hyperconverged" setzt sich aus zwei Wörtern zusammen: *hyper*, aus dem Griechischen, was "über" bedeutet, und *converged*, beziehungsweise im Deutschen *konvergent*, was so viel wie "in einem Punkt zusammenkommend" bedeutet. Da die Converged Infrastructure bereits teilweise in einem Punkt zusammenkommt und Hyperconverged Infrastructure die Integration noch weiter treibt, kann sie als "über konvergent" bezeichnet werden.
 
 ## Wie funktioniert Hyperconverged Infrastructure?
 
