@@ -11,23 +11,23 @@
 
 ## Was ist Hyperconverged Infrastructure?
 
-Als hyperconverged Infrastructure (zu Deutsch: hyperkonvergente Infrastruktur) wird IT-Infrastruktur bezeichnet, in welcher **alle** Komponenten eines klassischen Rechenzentrums (Rechenleistung, Speicher, Netzwerk) **zusammengefasst** und **zentral verwaltet** werden.
+Als hyperconverged Infrastructure (zu Deutsch: hyperkonvergente Infrastruktur) wird IT-Infrastruktur bezeichnet, in der **alle Komponenten** eines klassischen Rechenzentrums (Rechenleistung, Speicher und Netzwerk) **zusammengefasst** und **zentral verwaltet** werden.
 
-Hyperconverged Infrastructure ist eine Weiterwentwicklung der Converged Infrastructure, welche wiederum eine Weiterentwicklung der traditionellen IT-Infrastruktur ist.
+Hyperconverged Infrastructure ist eine Weiterentwicklung der Converged Infrastructure, welche wiederum eine Weiterentwicklung der traditionellen IT-Infrastruktur ist.
 
 ![Convergence_Explanation](assets/Convergence_Explanation.jpg)  
-*Unterschied zwischen den Verschiedenen Konvergenz-Stufen*  
+*Unterschied zwischen den verschiedenen Konvergenz-Stufen*  
 
 ### Traditionelle Infrastruktur
 
-Im traditionellen Infrastrukturaufbau, welcher seit Jahrzehnten in Rechenzentren gelebt wird, ist jede Komponente des großen Ganzen voneinander getrennt und läuft auf ihrer eigenen Hardware. Dadurch werden **eigene Server** für die Bereitstellung der Rechenleistung benötigt, ein **dediziertes Speichersystem** in Form von SAN oder NAS für die Speicherkapazität, sowie **Switches und weitere Netzwerkkomponenten** für den Netzwerkaufbau.  
-Dies führt dazu, dass enorme Kosten für den Erwerb der Hardware auftreten, welche im Betrieb durch Kosten für Strom und Stellplatz weiterlaufen. Außerdem ist die Verwaltung traditioneller Infrastruktur aufwändiger, da die einzelnen Komponenten alle alleine angesteuert und konfiguriert werden müssen.
+Im traditionellen Infrastrukturaufbau, welcher seit Jahrzehnten in Rechenzentren genutzt wird, ist jede Komponente des Gesamtsystems voneinander getrennt und läuft auf eigener Hardware. Dadurch werden **separate Server** für die Bereitstellung der Rechenleistung benötigt, ein **dediziertes Speichersystem** in Form von SAN oder NAS für die Speicherkapazität, sowie **Switches und weitere Netzwerkkomponenten** für den Netzwerkaufbau.  
+Dies führt zu beträchtlichen Kosten bei der Anschaffung der Hardware, welche im laufenden Betrieb durch Kosten für Strom und Stellplatz weiter steigen. Außerdem ist die Verwaltung traditioneller Infrastruktur aufwändiger, da die einzelnen Komponenten alle individuell angesteuert und konfiguriert werden müssen.
 
 ### Converged Infrastructure
 
 Um dem Kostenpunkt und der Inflexibilität der traditionellen Infrastruktur entgegenzuwirken wurde die Architektur der converged infrastructure (zu Deutsch: konvergente Infrastruktur) entwickelt.  
-Einzelne Komponenten und Anwendungen der IT-Infrastruktur **teilen** sich nun Ressourcen. Die converged Infrastructure besteht zwar aus einzelnen, physischen Bausteinen - diese werden jedoch als **ganzes System** geplant, als Paket von einem einzelnen Hersteller gekauft und über eine **Management Software** verwaltet.  
-Converged Infrastructure als Weiterentwicklung der traditionellen Infrastruktur hat neben dem Kostenpunkt noch den Vorteil, dass durch die gemeinsame Management Software die Verwaltung der ganzen Infrastruktur bedeutend simpler wird. Es muss nicht jede Komponente einzeln angesteuert werden, wodurch auch der Zeitaufwand geringer wird.  
+Einzelne Komponenten und Anwendungen der IT-Infrastruktur **teilen** sich nun **Ressourcen**. Die converged Infrastructure besteht zwar weiterhin aus separaten, physischen Bausteinen - diese werden jedoch als **Gesamtsystem** konzipiert, als Paket von einem einzelnen Hersteller gekauft und über eine **Management Software** verwaltet.  
+Als Weiterentwicklung der traditionellen Infrastruktur bietet Converged Infrastructure neben dem Kostenpunkt noch den Vorteil, dass die Verwaltung der ganzen Infrastruktur bedeutend erleichtert wird. Es muss nicht jede Komponente einzeln angesteuert werden, wodurch auch der Zeitaufwand geringer wird.  
 Der Kauf der Infrastruktur als Ganzes von einem einzelnen Hersteller kann sowohl ein Vorteil, als auch ein Nachteil sein - einerseits ist das System in sich bestens abgestimmt, andererseits ist die Flexibilität eingeschränkt, da die Infrastruktur vom Hersteller abhängig ist.
 
 ### Hyperconverged Infrastructure
